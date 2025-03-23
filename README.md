@@ -16,7 +16,7 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 ### Computer System
 - Minimum **4GB RAM** and a **multi-core processor**
 
-### CircuitDiagram
+## CircuitDiagram
 ![WhatsApp Image 2024-11-15 at 3 07 27 PM (1)](https://github.com/user-attachments/assets/644f306e-2325-44c7-a998-ed93c725ae46)
 
 ## Procedure
